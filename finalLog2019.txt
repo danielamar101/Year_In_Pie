@@ -1,0 +1,14 @@
+Great Days: 32
+Good Days(No Comment): 199
+Good Days(Positive Comment): 40
+Good Days(Negative Comment): 46
+Low Energy, Below Average, Sad Days: 22
+Bad Day, Stressed, Overwhelmed Days: 4
+Bad Day, Frustrated, Angry Days: 5
+Bad Day, Sad, Depressed Days: 6
+Data Not Available: 11
+
+Total Good Days: 285
+
+Total Positive Days:317
+Total Days Logged: 365

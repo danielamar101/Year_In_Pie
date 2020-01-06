@@ -1,4 +1,6 @@
 # Year_In_Pie
 
 
-Just trying to learn how to use Git and Github... This is my first test.
+In 2019, each day I would mark down how my day went. This was the scale I used:
+
+
